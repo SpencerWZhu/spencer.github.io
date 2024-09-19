@@ -30,14 +30,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-#  - icon: brands/x
-#    url: https://twitter.com/GetResearchDev
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-#    url: https://github.com/gcushen
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-#    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/
   - icon: brands/instagram
-#    url: https://www.instagram.com/
+    url: https://www.instagram.com/
 
 education:
   - area: Master of Education in History Teaching
@@ -47,9 +47,9 @@ education:
     summary: |
       • GPA: 3.22/4.0 
       • Core Courses: Continuity and Change: Studies in European History 1000-1750, Contemporary Western Historiography
-#    button:
-#      text: 'Read Thesis'
-#      url: 'https://example.com'
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Wenzhou University
     date_start: 2016-01-01
@@ -67,9 +67,9 @@ work:
     date_start: 2014-08
     date_end: 2022-08
     summary: |2-
-      • Lead Teacher of History & Society and Morality & Law, Grade 9
+      - Lead Teacher of History & Society and Morality & Law, Grade 9
         Taught graduating classes for six consecutive years, receiving recognition as an 'Outstanding Teacher.' Delivered two public lessons on the topics "Global Resource Issues" and "Addressing China's Resource Issues,"(organized by the Wenzhou Lucheng District Institute of Education Research) ；Classroom recording of the project "The Early Stage of Socialist Construction" was featured on the official national education platform "Xuexi Qiangguo."
-      • Head Class Teacher
+      - Head Class Teacher
         Cared for students, helped mediate parent-child conflicts, particularly supporting a student who was a victim of domestic violence.
 
 # Skills
@@ -120,14 +120,14 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Outstanding Academic Scholarship, Third Prize (awarded by Fudan University)
-#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Outstanding Advisor (Guided student’s essay 'A Discussion on the Historical Impact of Epidemics' , awarded by the Chinese Society of Education)
-#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
     icon: edx
@@ -137,7 +137,7 @@ awards:
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: 'Object-Oriented Programming in R'
-#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
     awarder: datacamp
