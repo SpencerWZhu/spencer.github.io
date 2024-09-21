@@ -48,7 +48,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: Bachelor of Law in Ideological and Political Education
     institution: Wenzhou University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -126,6 +126,31 @@ awards:
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
+    
+  - title: Outstanding Advisor (Guided student’s essay 'A Discussion on the Historical Impact of Epidemics' , awarded by the Chinese Society of Education)
+    date: '2020-07-01'
+    awarder: edX
+    icon: edx
+      
+  - title: National Outstanding Teaching Case, Project-The Early Stage of Socialist Construction(Top 1%, highest honor of its kind, awarded by the Ministry of Education of China)
+    date: '2017-07-01'
+    awarder: edX
+    icon: edx
+    
+  - title: Second Prize for Teaching Case, Project- "The Birth of the United States" ( awarded by the Wenzhou Institute of Education Research)
+    date: '2016-07-01'
+    awarder: edX
+    icon: edx
+    
+  - title: Second Prize in Live Classroom Teaching Competition (Project- 'The Discovery of the Individual'), organized by the Wenzhou Institute of Education Research.
+    date: '2015-07-01'
+    awarder: edX
+    icon: edx
+    
+  - title: Outstanding Graduate of Zhejiang Province (Top 5%, awarded by the Zhejiang Provincial Department of Education)
+    date: '2014-07-01'
+    awarder: edX
+    icon: edx
 
 ---
 
