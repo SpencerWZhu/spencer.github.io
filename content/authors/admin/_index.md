@@ -69,24 +69,30 @@ work:
         Taught graduating classes for six consecutive years, receiving recognition as an 'Outstanding Teacher.' Delivered two public lessons on the topics "Global Resource Issues" and "Addressing China's Resource Issues,"(organized by the Wenzhou Lucheng District Institute of Education Research) ；Classroom recording of the project "The Early Stage of Socialist Construction" was featured on the official national education platform "Xuexi Qiangguo."
       - Head Class Teacher
         Cared for students, helped mediate parent-child conflicts, particularly supporting a student who was a victim of domestic violence.
+  - position: A Study on Narratives of Early Modern Period in Chinese High School History Textbooks
+    company_name: ''
+    company_url: ''
+    company_logo: ''
+    date_start: 2014-08-01
+    date_end: 2022-08-01
+    summary: |2-
+     - Based on the Examination of Narrative Subject                                     Fudan University
+     - Advisors: Prof. Rong Xiang, Assoc. Researcher Ding Yan                   	Sept. 2023 - Dec. 2024
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Teaching Qualifications
         description: ''
         percent: 80
-        icon: devicon/python
-      - name: RStudio
+        icon: devicon/pytorch
+      - name: Specialized Qualifications
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
         icon: devicon/pytorch
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -107,10 +113,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Italian
+    percent: 00
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -123,14 +128,25 @@ awards:
     icon: coursera
   - title: Outstanding Advisor (Guided student’s essay 'A Discussion on the Historical Impact of Epidemics' , awarded by the Chinese Society of Education)
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: '2020-07-01'
     awarder: edX
     icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: National Outstanding Teaching Case, Project-The Early Stage of Socialist Construction(Top 1%, highest honor of its kind, awarded by the Ministry of Education of China)
+    date: '2017-07-01'
+    awarder: edX
+    icon: edx
+  - title: Second Prize for Teaching Case, Project- "The Birth of the United States" ( awarded by the Wenzhou Institute of Education Research)
+    date: '2016-07-01'
+    awarder: edX
+    icon: edx
+  - title: Second Prize in Live Classroom Teaching Competition (Project- 'The Discovery of the Individual'), organized by the Wenzhou Institute of Education Research.
+    date: '2015-07-01'
+    awarder: edX
+    icon: edx
+  - title: Outstanding Graduate of Zhejiang Province (Top 5%, awarded by the Zhejiang Provincial Department of Education)
+    date: '2014-07-01'
+    awarder: edX
+    icon: edx
 ---
 
 Research interests: narratives of the history textbooks, culture history of Italy in early-modern period
