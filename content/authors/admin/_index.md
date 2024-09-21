@@ -69,6 +69,15 @@ work:
         Taught graduating classes for six consecutive years, receiving recognition as an 'Outstanding Teacher.' Delivered two public lessons on the topics "Global Resource Issues" and "Addressing China's Resource Issues,"(organized by the Wenzhou Lucheng District Institute of Education Research) ；Classroom recording of the project "The Early Stage of Socialist Construction" was featured on the official national education platform "Xuexi Qiangguo."
       - Head Class Teacher
         Cared for students, helped mediate parent-child conflicts, particularly supporting a student who was a victim of domestic violence.
+  - position: A Study on Narratives of Early Modern Period in Chinese High School History Textbooks
+    company_name: ''
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-08-01
+    date_end: 2021-08-01
+    summary: |
+     Based on the Examination of Narrative Subject                                     Fudan University
+     Advisors: Prof. Rong Xiang, Assoc. Researcher Ding Yan                   	Sept. 2023 - Dec. 2024
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
