@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yvonne
+title: Yvonne2
 
 # Name pronunciation (optional)
 name_pronunciation:  
@@ -43,7 +43,7 @@ education:
   - area: Master of Education in History Teaching
     institution: Fudan University
     date_start: 2022-09-01
-    date_end: 2025-06-1
+    date_end: 2025-06-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
