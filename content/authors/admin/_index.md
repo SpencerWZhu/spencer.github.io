@@ -3,7 +3,7 @@
 title: Yvonne
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Yanyan
@@ -40,12 +40,13 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Education in History Teaching
+    institution: Fudan University
+    date_start: 2022-09
+    date_end: 2025-06
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      • GPA: 3.22/4.0 
+      • Core Courses: Continuity and Change: Studies in European History 1000-1750, Contemporary Western Historiography
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
